@@ -1,0 +1,128 @@
+=====================================================================================
+                 PRODUCTION SPECIFICATION REPORT (FACTORY STANDARD DE/SE)            
+=====================================================================================
+  PRODUCTION ROW | FACTORY SKU / ELEMENT ID  | FORMAT TYPE     | QTY (PCS) 
+-------------------------------------------------------------------------------------
+  row_01         | SP-179-ST                 | FULL (1.0)      | 1         
+  row_01         | SP-49-ST                  | HALF (0.5)      | 1         
+  row_02         | SP-179-ST                 | FULL (1.0)      | 1         
+  row_02         | SP-250-ST                 | FULL (1.0)      | 19        
+  row_02         | SP-49-ST                  | HALF (0.5)      | 2         
+  row_03         | SP-120-ST                 | HALF (0.5)      | 2         
+  row_03         | SP-179-ST                 | FULL (1.0)      | 2         
+  row_03         | SP-250-ST                 | FULL (1.0)      | 4         
+  row_03         | SP-49-ST                  | HALF (0.5)      | 1         
+  row_04         | SP-179-ST                 | FULL (1.0)      | 1         
+  row_04         | SP-250-ST                 | FULL (1.0)      | 5         
+  row_04         | SP-49-ST                  | HALF (0.5)      | 2         
+  row_05         | SP-179-ST                 | FULL (1.0)      | 2         
+  row_05         | SP-250-ST                 | FULL (1.0)      | 4         
+  row_05         | SP-49-ST                  | HALF (0.5)      | 1         
+  row_06         | SH8-250-ST                | FULL (1.0)      | 4         
+  row_06         | SP-179-ST                 | FULL (1.0)      | 1         
+  row_06         | SP-250-ST                 | FULL (1.0)      | 11        
+  row_06         | SP-49-ST                  | HALF (0.5)      | 2         
+  row_07         | SP-179-ST                 | FULL (1.0)      | 2         
+  row_07         | SP-250-ST                 | FULL (1.0)      | 10        
+  row_07         | SP-49-ST                  | HALF (0.5)      | 1         
+  row_08         | SP-179-ST                 | FULL (1.0)      | 1         
+  row_08         | SP-250-ST                 | FULL (1.0)      | 11        
+  row_08         | SP-49-ST                  | HALF (0.5)      | 2         
+  row_09         | SP-116-ST                 | HALF (0.5)      | 2         
+  row_09         | SP-120-ST                 | HALF (0.5)      | 2         
+  row_09         | SP-140-ST                 | FULL (1.0)      | 12        
+  row_09         | SP-179-ST                 | FULL (1.0)      | 2         
+  row_09         | SP-250-ST                 | FULL (1.0)      | 30        
+  row_09         | SP-49-ST                  | HALF (0.5)      | 1         
+  row_10         | SH8-246-ST                | FULL (1.0)      | 1         
+  row_10         | SH8-250-ST                | FULL (1.0)      | 4         
+  row_10         | SP-120-ST                 | HALF (0.5)      | 1         
+  row_10         | SP-122-ST                 | FULL (1.0)      | 2         
+  row_10         | SP-179-ST                 | FULL (1.0)      | 1         
+  row_10         | SP-185-ST                 | FULL (1.0)      | 1         
+  row_10         | SP-250-ST                 | FULL (1.0)      | 24        
+  row_10         | SP-49-ST                  | HALF (0.5)      | 2         
+  row_10         | SP-55-ST                  | HALF (0.5)      | 1         
+  row_11         | SP-120-ST                 | HALF (0.5)      | 1         
+  row_11         | SP-179-ST                 | FULL (1.0)      | 2         
+  row_11         | SP-250-ST                 | FULL (1.0)      | 26        
+  row_11         | SP-49-ST                  | HALF (0.5)      | 1         
+  row_12         | SH8-250-ST                | FULL (1.0)      | 16        
+  row_12         | SP-120-ST                 | HALF (0.5)      | 1         
+  row_12         | SP-179-ST                 | FULL (1.0)      | 1         
+  row_12         | SP-250-ST                 | FULL (1.0)      | 10        
+  row_12         | SP-49-ST                  | HALF (0.5)      | 1         
+  row_12         | SP-55-ST                  | HALF (0.5)      | 10        
+  row_13         | SH8-250-ST                | FULL (1.0)      | 11        
+  row_13         | SP-120-ST                 | HALF (0.5)      | 1         
+  row_13         | SP-250-ST                 | FULL (1.0)      | 3         
+  row_14         | SH8-250-ST                | FULL (1.0)      | 31        
+  row_15         | SH8-250-ST                | FULL (1.0)      | 10        
+  row_15         | SP-250-ST                 | FULL (1.0)      | 1         
+  row_15         | SP-61-ST                  | HALF (0.5)      | 2         
+  row_16         | SH8-250-ST                | FULL (1.0)      | 13        
+  row_17         | SH8-248-ST                | FULL (1.0)      | 2         
+  row_17         | SH8-250-ST                | FULL (1.0)      | 4         
+  row_17         | SP-250-ST                 | FULL (1.0)      | 1         
+  row_18         | SH8-250-ST                | FULL (1.0)      | 8         
+  row_19         | SH8-250-ST                | FULL (1.0)      | 7         
+  row_19         | SP-250-ST                 | FULL (1.0)      | 1         
+  row_20         | SH8-124-ST                | HALF (0.5)      | 8         
+  row_20         | SH8-250-ST                | FULL (1.0)      | 6         
+  row_20         | SP-120-ST                 | HALF (0.5)      | 1         
+  row_20         | SP-187-ST                 | FULL (1.0)      | 9         
+  row_20         | SP-250-ST                 | FULL (1.0)      | 3         
+  row_21         | SH8-250-ST                | FULL (1.0)      | 4         
+  row_21         | SP-120-ST                 | HALF (0.5)      | 5         
+  row_21         | SP-124-ST                 | FULL (1.0)      | 15        
+  row_21         | SP-140-ST                 | FULL (1.0)      | 12        
+  row_21         | SP-187-ST                 | FULL (1.0)      | 9         
+  row_21         | SP-250-ST                 | FULL (1.0)      | 4         
+  row_22         | SH8-250-ST                | FULL (1.0)      | 7         
+  row_22         | SP-120-ST                 | HALF (0.5)      | 1         
+  row_22         | SP-250-ST                 | FULL (1.0)      | 3         
+  row_23         | SH8-250-ST                | FULL (1.0)      | 8         
+  row_23         | SP-120-ST                 | HALF (0.5)      | 1         
+  row_23         | SP-187-ST                 | FULL (1.0)      | 6         
+  row_23         | SP-250-ST                 | FULL (1.0)      | 4         
+  row_24         | SH8-124-ST                | HALF (0.5)      | 8         
+  row_24         | SH8-250-ST                | FULL (1.0)      | 1         
+  row_24         | SP-120-ST                 | HALF (0.5)      | 1         
+  row_24         | SP-182-ST                 | FULL (1.0)      | 2         
+  row_24         | SP-187-ST                 | FULL (1.0)      | 3         
+  row_24         | SP-250-ST                 | FULL (1.0)      | 4         
+  row_24         | SP-61-ST                  | HALF (0.5)      | 4         
+  row_25         | SH8-124-ST                | HALF (0.5)      | 4         
+  row_25         | SH8-250-ST                | FULL (1.0)      | 6         
+  row_25         | SP-120-ST                 | HALF (0.5)      | 1         
+  row_25         | SP-205-ST                 | FULL (1.0)      | 7         
+  row_25         | SP-250-ST                 | FULL (1.0)      | 4         
+  row_26         | SH8-250-ST                | FULL (1.0)      | 8         
+  row_26         | SP-120-ST                 | HALF (0.5)      | 3         
+  row_26         | SP-225-ST                 | FULL (1.0)      | 7         
+  row_26         | SP-250-ST                 | FULL (1.0)      | 10        
+  row_27         | SP-114-ST                 | HALF (0.5)      | 2         
+  row_27         | SP-115-ST                 | HALF (0.5)      | 2         
+  row_27         | SP-120-ST                 | HALF (0.5)      | 1         
+  row_27         | SP-250-ST                 | FULL (1.0)      | 2         
+  row_28         | SP-250-ST                 | FULL (1.0)      | 10        
+  row_29         | SP-120-ST                 | HALF (0.5)      | 2         
+  row_29         | SP-250-ST                 | FULL (1.0)      | 9         
+  row_30         | SP-185-ST                 | FULL (1.0)      | 4         
+  row_30         | SP-205-ST                 | FULL (1.0)      | 6         
+  row_30         | SP-250-ST                 | FULL (1.0)      | 8         
+  row_30         | SP-55-ST                  | HALF (0.5)      | 2         
+  row_31         | SP-250-ST                 | FULL (1.0)      | 11        
+
+=====================================================================================
+                           TOTAL FACTORY MATERIAL SUMMARY                            
+=====================================================================================
+  LF (Кирпич 1нф лицевой)                  :            0 pcs
+  SP (Кирпич 1нф строительный полнотелый)  :          377 pcs
+  SH8 (Кирпич шамотный ШБ-8)               :          161 pcs
+-------------------------------------------------------------------------------------
+                           ПРАКТИЧЕСКИЙ РАСХОД СМЕСЕЙ                                
+-------------------------------------------------------------------------------------
+  Глиняно-песчаная смесь (1,1 кг/шт)       :        414,7 кг
+  Огнеупорный Мертель (0,6 кг/шт)          :         96,6 кг
+=====================================================================================
